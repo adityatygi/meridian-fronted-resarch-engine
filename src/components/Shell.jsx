@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom
+import { Link, useNavigate } from "react-router-dom";
 import { LogOut, Compass, Sun, Moon } from "lucide-react";
 import { motion } from "framer-motion";
 
